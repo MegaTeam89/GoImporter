@@ -1,0 +1,2 @@
+# GoImporter
+ GoAnimate Importer
